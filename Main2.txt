@@ -4,3 +4,4 @@ Line 2 git test.
 =======
 嗨嗨測試用
 HI
+function4
