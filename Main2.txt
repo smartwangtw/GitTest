@@ -1,2 +1,3 @@
 This is a git repo file 2.
 Line 2 git test.
+嗨嗨測試用
